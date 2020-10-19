@@ -9,5 +9,5 @@
         }
     }
 
-    echo $dividersAmount;
+    echo "Количество делителей: " . $dividersAmount;
 ?>
